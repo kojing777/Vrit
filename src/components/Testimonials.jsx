@@ -54,6 +54,7 @@ const Testimonials = () => {
                 transform: `translate(-50%, -50%) rotate(${i * (360 / avatars.length)}deg) translateY(-28vw)`
               }}
             >
+              
               <img
                 src={img}
                 alt={`avatar-${i}`}
