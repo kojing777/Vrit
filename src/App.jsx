@@ -4,6 +4,8 @@ import VideoComponent from "./components/Video";
 import CoursesOverview from "./components/CoursesOverview";
 import Testimonials from "./components/Testimonials";
 
+
+
 const App = () => {
   return (
     <div>
